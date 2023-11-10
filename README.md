@@ -1,6 +1,6 @@
 # Desafio - DIO - Aplicativo do tipo Canvas com a Power Platform
 
-APP Canvas with Power Platform with DIO (https://web.dio.me/play) for 'WEX Bootcamp - .NET Development and QA'
+APP Canvas with Power Platform with DIO (https://web.dio.me/play) for 'Avanade Bootcamp - Programação C# com CRM Dynamics'
 
 - <b> Tela de Inicio da Aplicação:</b>
   <img align="center" height="400" widht="600" src="/Print/Print1.JPG" /><br>
